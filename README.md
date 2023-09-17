@@ -7,7 +7,6 @@
 **Xác định rủi ro tín dụng**: Kết quả đánh giá khả năng trả nợ của người vay, thường là một chỉ số hoặc hạng mức, giúp ngân hàng hoặc tổ chức tín dụng quyết định liệu họ nên cấp vay cho người đó hay không, và nếu cấp vay thì với điều kiện nào.
 
 Bảng giải nghĩa feature
-Dưới đây là bảng mô tả các đặc trưng (features) và mô tả của chúng:
 
 | Feature                         | Description                                     |
 |---------------------------------|-------------------------------------------------|
