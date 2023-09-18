@@ -22,3 +22,6 @@ Bảng giải nghĩa feature
 | loan_percent_income             | Tỷ lệ giữa số tiền vay và thu nhập hàng năm của người vay. |
 | cb_person_default_on_file       | Lịch sử về việc người vay từng ghi nhận sự việc không trả nợ (default) trong quá khứ. |
 | cb_preson_cred_hist_length      | Lịch sử tín dụng của người vay.     |
+
+**Cơ bản kết quả
+![image](https://github.com/ChiThang-50Cent/credit-risk-prediction/assets/62085284/c200a418-bcbb-4732-8d7b-fa206ebdfa40)
